@@ -1,0 +1,8 @@
+{
+  "name": "crusher_proj_client",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "6cce3535"
+}
